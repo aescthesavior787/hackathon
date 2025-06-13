@@ -61,8 +61,8 @@ This project is built with modern web technologies:
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd project-chaldeas
+git clone https://github.com/aescthesavior787/hackathon
+cd hackathon
 
 # Install dependencies
 npm install
